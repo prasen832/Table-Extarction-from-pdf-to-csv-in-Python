@@ -1,1 +1,1 @@
-# Table Extraction from pdf to CSV in Python
+# Table Extraction from PDF to CSV in Python
