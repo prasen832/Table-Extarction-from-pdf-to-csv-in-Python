@@ -74,3 +74,5 @@ Automated data entry systems often require structured data in a machine-readable
 #### 7. Contract Analysis:
 
 Legal documents, contracts, and agreements are often stored in PDFs. Extracting tables from these documents can aid in analyzing terms, conditions, and financial information.
+
+### Now, let's jump into the Jupyter Notebook and begin the Coding work.
