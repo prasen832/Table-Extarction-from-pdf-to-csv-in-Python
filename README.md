@@ -4,9 +4,9 @@
 
 ## Obective
 
-The objective of this project is to extract the table on page no.54 in the given PDF and convert it into a CSV file.
+*The objective of this project is to extract the table on page no.54 in the given PDF and convert it into a CSV file.*
 
-### Why are tables Extraction from pdf's are challenging ?
+## Why are tables Extraction from pdf's are challenging ?
 
 **Extracting tables from PDFs can be challenging for several reasons**
 
