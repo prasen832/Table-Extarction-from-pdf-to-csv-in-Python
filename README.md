@@ -42,3 +42,35 @@ Some PDFs may be secured or encrypted, limiting the ability to extract data prog
 PDFs might use different character encodings, and dealing with character encoding issues during extraction is a common challenge.
 
 To overcome these challenges, developers often use specialized libraries and tools designed for PDF parsing and table extraction. These tools may leverage techniques like OCR for image-based content, heuristics for identifying table structures, and algorithms for handling complex layouts. Despite these challenges, with the right tools and techniques, it is possible to extract tables from PDFs accurately.
+
+## What is the need for table Extraction from pdf ?
+
+Extracting tables from PDFs serves several purposes across various industries and applications. Here are some common reasons why table extraction from PDFs is needed:
+
+#### 1. Data Analysis:
+
+Tables in PDF documents often contain valuable data for analysis. Extracting tables allows organizations to analyze and make informed decisions based on the structured data within those tables.
+ 
+#### 2. Data Migration:
+
+When organizations transition between systems or software, they may need to migrate data. Extracting tables from PDFs facilitates the transfer of structured information to databases or other software applications.
+
+#### 3. Automation of Workflows:
+
+Extracting tables from PDFs is crucial for automating workflows. Automated processes, such as data entry or report generation, often require structured data from tables to operate efficiently.
+
+#### 4. Text Mining and Natural Language Processing (NLP):
+
+In fields like NLP and text mining, extracting structured data from tables within PDFs helps researchers and algorithms analyze patterns, trends, and relationships in the data.
+
+#### 5. Data Integration:
+
+Tables from PDFs may need to be integrated with existing datasets. Extracting this data allows organizations to merge information from various sources for a comprehensive view.
+
+#### 6. Automation of Data Entry:
+
+Automated data entry systems often require structured data in a machine-readable format. Extracting tables from PDFs helps streamline the data entry process.
+
+#### 7. Contract Analysis:
+
+Legal documents, contracts, and agreements are often stored in PDFs. Extracting tables from these documents can aid in analyzing terms, conditions, and financial information.
